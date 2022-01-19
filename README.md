@@ -1,1 +1,2 @@
 # dom-project-2
+Bu bir slider uygulamasıdır.Slayt geçişlerini kendim ayarladım.Models classı içerisindeki Random false denildiğinde sırayla true denildiğinde ise random sayılar gelecektir. Bu projede 1 saniye aralıklarla resimlere geçişler sağlanıyor.İconların üstüne tıklanıldığında kendiniz resimlere sırasıyla ileri veya geri resimlere de geçiş sağlayabilirsiniz.İconun üstünde mouse'u beklettiğinizde ise resim durur geri mouse iconun üstünden çekersek resim 1 saniyelik döngüsüne devam eder.
